@@ -107,4 +107,4 @@ Your Name:Basavaraj Y N
 
 Data Analyst Intern
 
-GitHub: 
+GitHub: https://github.com/BasavarjYN/superstore-dashboard.git
