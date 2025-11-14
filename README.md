@@ -24,25 +24,32 @@ Dataset: Sample Superstore (Retail sales data)
 
 
 📊 Dashboard Visuals
+
 The dashboard contains the following worksheets:
 
 1️⃣ Sales & Profit Trend (Line Chart)
+
 Shows monthly performance and helps identify seasonal trends.
 
 2️⃣ Sales by Category (Bar Chart)
+
 Compares revenue across major product categories.
 
 3️⃣ Profit by State (Map)
+
 Highlights profit contributions across U.S. states, showing loss-making areas.
 
 4️⃣ Sub-Category Profitability (Horizontal Bar)
+
 Ranks product sub-categories based on profit/loss.
 
 5️⃣ Discount vs Profit (Scatter Plot)
+
 Shows the relationship between discount percentage and profitability.
 
 
 🎛 Filters Added
+
 The dashboard includes interactive filters:
 Year
 Region
@@ -89,5 +96,7 @@ It visually tells the story of how the business operates and where improvements 
 👤 Author
 
 Your Name:Basavaraj Y N
+
 Data Analyst Intern
+
 GitHub: 
