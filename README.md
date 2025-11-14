@@ -6,6 +6,7 @@ The goal is to analyze the Sample Superstore dataset and create a clear, interac
 
 
 📁 Project Files Included
+
 Superstore_Dashboard.twbx → Tableau packaged workbook
 Superstore_Dashboard.pdf → Exported dashboard in PDF format
 Sample - Superstore.csv → Dataset used for analysis
@@ -14,6 +15,7 @@ README.md → Project explanation
 
 
 🎯 Objective
+
 To visualize sales, profit, category performance, regional performance, and discount impact using Tableau.
 The dashboard highlights key trends and provides actionable insights for decision-making.
 
@@ -51,9 +53,13 @@ Shows the relationship between discount percentage and profitability.
 🎛 Filters Added
 
 The dashboard includes interactive filters:
+
 Year
+
 Region
+
 Category
+
 Segment
 
 These filters apply to all worksheets, allowing users to explore deeper insights.
@@ -77,6 +83,7 @@ Use PDF for reporting or assignment submission
 
 
 📝 How the Dashboard Was Created
+
 Cleaned and explored the Superstore dataset
 Built five worksheets
 Applied filters to a central dashboard
@@ -85,6 +92,7 @@ Exported as PDF
 
 
 🚀 Conclusion
+
 This dashboard provides a full overview of Superstore’s performance and helps stakeholders understand:
 What drives profit
 Where losses occur
